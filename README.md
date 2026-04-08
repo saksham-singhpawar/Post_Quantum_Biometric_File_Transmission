@@ -433,10 +433,10 @@ Tested on consumer-grade hardware over WiFi (Python 3.11, Windows 11):
   <a href="mailto:sakshamsingh.pawar2023@vitstudent.ac.in">sakshamsingh.pawar2023@vitstudent.ac.in</a>
 </td>
 <td align="center">
-  <b>Anamitra Srivastava</b><br/>
+  <b>Anamitra Shrivastava</b><br/>
   School of Computer Science<br/>
   VIT University<br/>
-  <a href="mailto:anamitra.srivastava2023@vitstudent.ac.in">anamitra.srivastava2023@vitstudent.ac.in</a>
+  <a href="mailto:anamitra.shrivastava2023@vitstudent.ac.in">anamitra.srivastava2023@vitstudent.ac.in</a>
 </td>
 <td align="center">
   <b>Asritha P</b><br/>
